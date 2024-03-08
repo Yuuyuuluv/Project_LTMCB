@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\DoAnPaint\SEVERRR\bin\Debug\SEVERRR.exe.config
+C:\Users\Admin\source\repos\DoAnPaint\SEVERRR\bin\Debug\SEVERRR.exe
+C:\Users\Admin\source\repos\DoAnPaint\SEVERRR\bin\Debug\SEVERRR.pdb
+C:\Users\Admin\source\repos\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.Properties.Resources.resources
+C:\Users\Admin\source\repos\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.Sever.resources
+C:\Users\Admin\source\repos\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.exe
+C:\Users\Admin\source\repos\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.pdb
+G:\My Drive\LTMCB\Đồ án\DoAnPaint\SEVERRR\bin\Debug\SEVERRR.exe.config
+G:\My Drive\LTMCB\Đồ án\DoAnPaint\SEVERRR\bin\Debug\SEVERRR.exe
+G:\My Drive\LTMCB\Đồ án\DoAnPaint\SEVERRR\bin\Debug\SEVERRR.pdb
+G:\My Drive\LTMCB\Đồ án\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.Properties.Resources.resources
+G:\My Drive\LTMCB\Đồ án\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.Sever.resources
+G:\My Drive\LTMCB\Đồ án\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.csproj.GenerateResource.cache
+G:\My Drive\LTMCB\Đồ án\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.csproj.CoreCompileInputs.cache
+G:\My Drive\LTMCB\Đồ án\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.exe
+G:\My Drive\LTMCB\Đồ án\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.pdb
+G:\My Drive\LTMCB\Đồ án\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DoAnPaint\SEVERRR\obj\Debug\SEVERRR.csprojAssemblyReference.cache
